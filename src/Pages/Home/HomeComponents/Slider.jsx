@@ -38,7 +38,7 @@ const SliderComponent = () => {
         );
       })}
 
-      <div className="absolute inset-0 bg-black/40 z-10"></div>
+      <div className="absolute inset-0 bg-black/40 z-0"></div>
 
       <div className="absolute inset-0 flex flex-col items-center justify-center text-white text-center z-20 px-4">
         <p className="text-lg">* This offer valid till 22 August</p>
