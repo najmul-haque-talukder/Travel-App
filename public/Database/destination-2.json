@@ -1,0 +1,384 @@
+[
+  {
+    "id": 1,
+    "title": "Two Hour Walking Tour Of Manhattan",
+    "location": "New York, USA",
+    "duration": "7 Days",
+    "price": 450,
+    "originalPrice": 550,
+    "label": "18% Off",
+    "labelbg": "bg-orange-500",
+    "text": "Explore the heart of Manhattan with a guided walking tour through iconic streets, buildings, and landmarks. This fast-paced journey gives you a perfect taste of New York City. Ideal for those with limited time.",
+    "image": "https://images.pexels.com/photos/378570/pexels-photo-378570.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Beautiful Coastline Tour",
+    "location": "Veins City, Italy",
+    "duration": "5 Days",
+    "price": 320,
+    "originalPrice": null,
+    "label": "01 Tour",
+    "labelbg": "bg-purple-600",
+    "text": "A stunning tour along Italy’s most beautiful coastline. Enjoy breathtaking sea views, colorful houses, and fresh Mediterranean air. Perfect for relaxation and photography lovers.",
+    "image": "https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Golden Gate Bridge Experience",
+    "location": "San Francisco, USA",
+    "duration": "6 Days",
+    "price": 390,
+    "originalPrice": null,
+    "label": "02 Tour",
+    "labelbg": "bg-indigo-600",
+    "text": "Experience the world-famous Golden Gate Bridge up close with breathtaking panoramas of San Francisco Bay. Learn the history behind this iconic landmark while exploring surrounding scenic points.",
+    "image": "https://images.pexels.com/photos/208745/pexels-photo-208745.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "Swiss Mountain & River Tour",
+    "location": "Zurich, Switzerland",
+    "duration": "4 Days",
+    "price": 410,
+    "originalPrice": 460,
+    "label": "New",
+    "labelbg": "bg-green-600",
+    "text": "Discover Switzerland’s charming villages, crystal-clear rivers, and snow-covered peaks. This tour provides a perfect mix of nature, culture, and relaxation.",
+    "image": "https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "Sydney Opera House Tour",
+    "location": "Sydney, Australia",
+    "duration": "5 Days",
+    "price": 510,
+    "originalPrice": 600,
+    "label": "Featured",
+    "labelbg": "bg-red-600",
+    "text": "Visit the iconic Sydney Opera House and enjoy spectacular harbor views. Explore modern architecture, sunny beaches, and vibrant city life in Australia.",
+    "image": "https://images.pexels.com/photos/219330/pexels-photo-219330.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "Dubai Skyscraper Night Tour",
+    "location": "Dubai, Emirates",
+    "duration": "3 Days",
+    "price": 350,
+    "originalPrice": null,
+    "label": "Hot",
+    "labelbg": "bg-yellow-600",
+    "text": "Witness Dubai’s futuristic skyscrapers glow at night. Enjoy world-class attractions, luxury lifestyle, and impressive skyline views.",
+    "image": "https://images.pexels.com/photos/3787839/pexels-photo-3787839.jpeg"
+  },
+  {
+    "id": 7,
+    "title": "Beach Paradise Escape",
+    "location": "Maldives",
+    "duration": "6 Days",
+    "price": 690,
+    "originalPrice": 780,
+    "label": "Top Rated",
+    "labelbg": "bg-blue-600",
+    "text": "Relax in crystal-clear blue waters on the beautiful islands of Maldives. A perfect getaway for beach lovers and those seeking peace.",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg"
+  },
+  {
+    "id": 8,
+    "title": "Tokyo Street Night Tour",
+    "location": "Tokyo, Japan",
+    "duration": "4 Days",
+    "price": 520,
+    "originalPrice": 590,
+    "label": "Deal",
+    "labelbg": "bg-pink-600",
+    "text": "Experience the neon-lit streets of Tokyo and explore its energetic nightlife. A blend of tradition, technology, and modern culture awaits you.",
+    "image": "https://images.pexels.com/photos/210415/pexels-photo-210415.jpeg"
+  },
+
+  {
+    "id": 9,
+    "title": "Paris Eiffel Tower Tour",
+    "location": "Paris, France",
+    "duration": "5 Days",
+    "price": 440,
+    "originalPrice": null,
+    "label": "New",
+    "labelbg": "bg-green-500",
+    "text": "Visit the romantic city of Paris and admire the Eiffel Tower’s breathtaking views. The perfect escape for couples and travel lovers.",
+    "image": "https://images.pexels.com/photos/338515/pexels-photo-338515.jpeg"
+  },
+
+  {
+    "id": 10,
+    "title": "London City Experience",
+    "location": "London, England",
+    "duration": "4 Days",
+    "price": 410,
+    "originalPrice": 480,
+    "label": "Special",
+    "labelbg": "bg-purple-500",
+    "text": "Explore historic landmarks like Big Ben, London Eye, and Tower Bridge. London offers a unique mix of tradition and modern culture.",
+    "image": "https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg"
+  },
+
+  {
+    "id": 11,
+    "title": "Seoul Modern City Tour",
+    "location": "Seoul, South Korea",
+    "duration": "3 Days",
+    "price": 370,
+    "originalPrice": null,
+    "label": "Trending",
+    "labelbg": "bg-blue-500",
+    "text": "Experience Seoul’s modern skyscrapers, K-pop culture, and delicious street food. A perfect blend of tradition and innovation.",
+    "image": "https://images.pexels.com/photos/237211/pexels-photo-237211.jpeg"
+  },
+
+  {
+    "id": 12,
+    "title": "Thailand Island Adventure",
+    "location": "Phuket, Thailand",
+    "duration": "5 Days",
+    "price": 350,
+    "originalPrice": null,
+    "label": "Top Pick",
+    "labelbg": "bg-yellow-500",
+    "text": "Discover tropical beaches, clear waters, and relaxing island vibes. A must-visit destination for adventurers and nature lovers.",
+    "image": "https://images.pexels.com/photos/457882/pexels-photo-457882.jpeg"
+  },
+
+  {
+    "id": 13,
+    "title": "Canada Mountain Hiking",
+    "location": "Banff, Canada",
+    "duration": "7 Days",
+    "price": 590,
+    "originalPrice": 650,
+    "label": "Adventure",
+    "labelbg": "bg-red-500",
+    "text": "Hike through the scenic Rocky Mountains and explore pristine lakes. Perfect for adventure seekers and nature photographers.",
+    "image": "https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg"
+  },
+
+  {
+    "id": 14,
+    "title": "Iceland Waterfall Tour",
+    "location": "Reykjavik, Iceland",
+    "duration": "6 Days",
+    "price": 630,
+    "originalPrice": 700,
+    "label": "New",
+    "labelbg": "bg-green-600",
+    "text": "Visit Iceland’s breathtaking waterfalls, glaciers, and lava fields. A magical destination for explorers and wanderers.",
+    "image": "https://images.pexels.com/photos/35600/pexels-photo.jpg"
+  },
+
+  {
+    "id": 15,
+    "title": "China Great Wall Expedition",
+    "location": "Beijing, China",
+    "duration": "4 Days",
+    "price": 420,
+    "originalPrice": 480,
+    "label": "Tour",
+    "labelbg": "bg-indigo-500",
+    "text": "Walk along one of the world’s greatest wonders — the Great Wall of China. Enjoy scenic mountain views and ancient architecture.",
+    "image": "https://images.pexels.com/photos/247663/pexels-photo-247663.jpeg"
+  },
+
+  {
+    "id": 16,
+    "title": "Egypt Pyramid Explorer",
+    "location": "Giza, Egypt",
+    "duration": "6 Days",
+    "price": 520,
+    "originalPrice": 590,
+    "label": "Featured",
+    "labelbg": "bg-yellow-600",
+    "text": "Discover ancient pyramids and Egyptian history. A perfect tour for history lovers and adventure explorers.",
+    "image": "https://images.pexels.com/photos/71241/pexels-photo-71241.jpeg"
+  },
+
+  {
+    "id": 17,
+    "title": "Indonesia Bali Jungle Tour",
+    "location": "Bali, Indonesia",
+    "duration": "5 Days",
+    "price": 360,
+    "originalPrice": null,
+    "label": "Hot",
+    "labelbg": "bg-red-600",
+    "text": "Explore the tropical jungles, rice terraces, and waterfalls of Bali. A peaceful retreat filled with natural beauty.",
+    "image": "https://images.pexels.com/photos/230611/pexels-photo-230611.jpeg"
+  },
+
+  {
+    "id": 18,
+    "title": "Germany Black Forest Scenic Tour",
+    "location": "Baden-Württemberg, Germany",
+    "duration": "4 Days",
+    "price": 430,
+    "originalPrice": null,
+    "label": "Top Rated",
+    "labelbg": "bg-blue-600",
+    "text": "Travel through Germany’s mystical Black Forest with tall trees, rivers, and small charming villages. A scenic escape from busy city life.",
+    "image": "https://images.pexels.com/photos/236047/pexels-photo-236047.jpeg"
+  },
+
+  {
+    "id": 19,
+    "title": "Norway Northern Lights Tour",
+    "location": "Tromsø, Norway",
+    "duration": "7 Days",
+    "price": 760,
+    "originalPrice": 820,
+    "label": "New",
+    "labelbg": "bg-green-500",
+    "text": "Experience the magical Aurora Borealis dancing in the northern skies. A dream trip for photographers and adventure seekers.",
+    "image": "https://images.pexels.com/photos/193331/pexels-photo-193331.jpeg"
+  },
+
+  {
+    "id": 20,
+    "title": "Morocco Sahara Desert Tour",
+    "location": "Marrakesh, Morocco",
+    "duration": "5 Days",
+    "price": 350,
+    "originalPrice": null,
+    "label": "Adventure",
+    "labelbg": "bg-orange-600",
+    "text": "Ride through golden sand dunes in the Sahara Desert. Enjoy sunset camel rides and traditional Moroccan culture.",
+    "image": "https://images.pexels.com/photos/248795/pexels-photo-248795.jpeg"
+  },
+
+  {
+    "id": 21,
+    "title": "Rome Ancient City Experience",
+    "location": "Rome, Italy",
+    "duration": "5 Days",
+    "price": 420,
+    "originalPrice": 470,
+    "label": "Popular",
+    "labelbg": "bg-purple-600",
+    "text": "Walk through the ancient streets of Rome and explore the Colosseum, Trevi Fountain, and Vatican City.",
+    "image": "https://images.pexels.com/photos/532263/pexels-photo-532263.jpeg"
+  },
+
+  {
+    "id": 22,
+    "title": "Singapore Marina Bay Tour",
+    "location": "Singapore City",
+    "duration": "3 Days",
+    "price": 410,
+    "originalPrice": null,
+    "label": "Trending",
+    "labelbg": "bg-blue-500",
+    "text": "A futuristic city filled with stunning skyscrapers, clean streets, and breathtaking night views.",
+    "image": "https://images.pexels.com/photos/3586966/pexels-photo-3586966.jpeg"
+  },
+
+  {
+    "id": 23,
+    "title": "Vietnam Ha Long Bay Cruise",
+    "location": "Quang Ninh, Vietnam",
+    "duration": "4 Days",
+    "price": 380,
+    "originalPrice": null,
+    "label": "Best Seller",
+    "labelbg": "bg-yellow-500",
+    "text": "Cruise between limestone cliffs and emerald waters in the world-famous Ha Long Bay.",
+    "image": "https://images.pexels.com/photos/247468/pexels-photo-247468.jpeg"
+  },
+
+  {
+    "id": 24,
+    "title": "Turkey Cappadocia Balloon Ride",
+    "location": "Cappadocia, Turkey",
+    "duration": "3 Days",
+    "price": 450,
+    "originalPrice": null,
+    "label": "Hot Deal",
+    "labelbg": "bg-red-500",
+    "text": "Enjoy a magical sunrise balloon ride over Cappadocia’s unique rock formations.",
+    "image": "https://images.pexels.com/photos/2346911/pexels-photo-2346911.jpeg"
+  },
+
+  {
+    "id": 25,
+    "title": "Spain Barcelona Beach Tour",
+    "location": "Barcelona, Spain",
+    "duration": "5 Days",
+    "price": 390,
+    "originalPrice": null,
+    "label": "New",
+    "labelbg": "bg-green-500",
+    "text": "Relax on sunny beaches while exploring Barcelona’s rich architecture and culture.",
+    "image": "https://images.pexels.com/photos/1388030/pexels-photo-1388030.jpeg"
+  },
+
+  {
+    "id": 26,
+    "title": "Portugal Lisbon City Tour",
+    "location": "Lisbon, Portugal",
+    "duration": "4 Days",
+    "price": 370,
+    "originalPrice": null,
+    "label": "Featured",
+    "labelbg": "bg-purple-500",
+    "text": "Explore Lisbon’s colorful streets, seaside views, and historical culture sites.",
+    "image": "https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg"
+  },
+
+  {
+    "id": 27,
+    "title": "Brazil Rio Carnival Tour",
+    "location": "Rio de Janeiro, Brazil",
+    "duration": "6 Days",
+    "price": 500,
+    "originalPrice": null,
+    "label": "Festival",
+    "labelbg": "bg-pink-600",
+    "text": "Enjoy the vibrant Carnival celebrations, samba dance, and beautiful beaches.",
+    "image": "https://images.pexels.com/photos/286898/pexels-photo-286898.jpeg"
+  },
+
+  {
+    "id": 28,
+    "title": "Nepal Everest Base Trek",
+    "location": "Lukla, Nepal",
+    "duration": "10 Days",
+    "price": 840,
+    "originalPrice": 900,
+    "label": "Adventure",
+    "labelbg": "bg-orange-500",
+    "text": "Take on one of the world’s greatest trekking challenges — the Everest Base Camp hike.",
+    "image": "https://images.pexels.com/photos/521234/pexels-photo-521234.jpeg"
+  },
+
+  {
+    "id": 29,
+    "title": "Finland Winter Wonderland Tour",
+    "location": "Lapland, Finland",
+    "duration": "7 Days",
+    "price": 720,
+    "originalPrice": 780,
+    "label": "Winter",
+    "labelbg": "bg-blue-700",
+    "text": "Experience snow forests, reindeer rides, and magical winter landscapes in Finland.",
+    "image": "https://images.pexels.com/photos/55787/pexels-photo-55787.jpeg"
+  },
+
+  {
+    "id": 30,
+    "title": "Austria Alpine Village Tour",
+    "location": "Innsbruck, Austria",
+    "duration": "5 Days",
+    "price": 430,
+    "originalPrice": null,
+    "label": "Peaceful",
+    "labelbg": "bg-teal-600",
+    "text": "Relax in charming Alpine villages surrounded by green mountains and fresh air.",
+    "image": "https://images.pexels.com/photos/2662116/pexels-photo-2662116.jpeg"
+  }
+]
